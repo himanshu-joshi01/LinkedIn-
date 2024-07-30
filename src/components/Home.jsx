@@ -69,20 +69,20 @@ const Home = () => {
           <div className="flex flex-wrap mt-4 justify-around">
             <Link
               className="flex items-center gap-2"
-              to={"https://www.linkedin.com/article/new/"}
+              to={"#"}
             >
               {" "}
               <AiFillPicture /> Media
             </Link>
             <Link
               className="flex items-center gap-2"
-              to={"https://www.linkedin.com/article/new/"}
+              to={"#"}
             >
               <SlCalender /> Event
             </Link>
             <Link
               className="flex items-center gap-2"
-              to={"https://www.linkedin.com/article/new/"}
+              to={"#"}
             >
               <RiArticleFill /> Write article
             </Link>

@@ -37,8 +37,8 @@ const Context = (props) => {
 
 
   useEffect(() => {
-    allProducts();
-    allUsers();
+    // allProducts();
+    // allUsers();
     allPosts();
    
   },[]);

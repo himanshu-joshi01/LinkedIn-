@@ -66,7 +66,7 @@ const Navbar = () => {
               ? "flex flex-col items-center text-red-0 border-b-[3px] border-black text-xs"
               : "flex flex-col items-center text-xs";
           }}
-          to="https://www.linkedin.com/jobs/"
+          to="#"
         >
             <FaSuitcase size={28}/>
           Jobs
@@ -127,7 +127,7 @@ const Navbar = () => {
               ? "flex flex-col items-center border-b-[3px] border-black text-xs"
               : "flex flex-col items-center text-xs";
           }}
-          to="https://www.linkedin.com/premium/survey/?destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F&referenceId=rKyVEccpS3i1cLFBlklWZQ%3D%3D&upsellOrderOrigin=premium_nav_upsell_text&utype=job"
+          to="#"
         >
             <FaSquarePiedPiper size={28}/>
           Try Premium for &#8377; 0 
